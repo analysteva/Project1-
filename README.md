@@ -15,9 +15,7 @@ https://github.com/AlexTheAnalyst/Power-BI/blob/30d9e66e34a15900c5a191e76372e96b
 ## Data Visualization
 ### Made in Power BI
 Below visuals have been made in Power BI desktop and describing results gathered from the survey
-https://github.com/analysteva/portfolio.wiki.git
-
-https://github.com/analysteva/portfolio.wiki.git
+<img src="https://github.com/analysteva/portfolio/blob/a54894df9b47e6184023ae10f4c2bb9b783c675c/assets/img/1.png" alt="Flowers in Chania" width="700" height="500">
 
 
 
