@@ -15,6 +15,9 @@ https://github.com/AlexTheAnalyst/Power-BI/blob/30d9e66e34a15900c5a191e76372e96b
 ## Data Visualization
 ### Made in Power BI
 Below visuals have been made in Power BI desktop and describing results gathered from the survey
+https://github.com/analysteva/portfolio.wiki.git
+
+https://github.com/analysteva/portfolio.wiki.git
 
 
 
