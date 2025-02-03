@@ -9,7 +9,7 @@ The project is based on open data published by the Central Statistical Office of
 
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset<BR>
-*<a href="https://analysteva.github.io/Project1-/"> Full screen </a>*
+*<a href="https://github.com/analysteva/Project1-/blob/1232e72b5f8459a87f040b517d958e9433078cb6/assets/img/KN_screen1.JPG"> Full screen </a>*
 <img src="assets/img/KN_screen1.JPG" alt="Example Image" width="500" height="281">
 
 *<a href="https://analysteva.github.io/Project1-/"> Full screen2 </a>*
