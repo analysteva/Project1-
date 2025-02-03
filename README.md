@@ -10,6 +10,7 @@ The project is based on open data published by the Central Statistical Office of
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset<BR>
 *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a>*
+<img src="assets/img/KN_screen1.JPG" alt="Example Image" width="600" height="350">
 <img src="assets/img/KN_screen1.JPG" alt="Example Image" width="500" height="281">
 
 
