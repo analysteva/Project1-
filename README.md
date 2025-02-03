@@ -9,6 +9,8 @@ The project is based on open data published by the Central Statistical Office of
 
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset<BR>
+assets/img/KN_screen1.JPG
+<img src="https://github.com/analysteva/portfolio/blob/a54894df9b47e6184023ae10f4c2bb9b783c675c/assets/img/KN_screen1.jpg" alt="Flowers in Chania" width="700" height="500">
 
 <img src="https://github.com/analysteva/portfolio/blob/a54894df9b47e6184023ae10f4c2bb9b783c675c/assets/img/1.png" alt="Flowers in Chania" width="700" height="500">
 
