@@ -5,17 +5,15 @@ Additionally, interactive reports have been developed to enable efficient filter
 
 ## Dataset Involved:
 The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country. <br>
-<B>*Data source:*</B> https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/table
+<B>*Data source:*</B> <a href>https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/ </a>
 
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset<BR>
 https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen1.JPG
 
-    *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a>*
-    <img src="assets/img/KN_screen1.JPG" alt="Example Image">
-    https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen1.JPG
-
 <img src="https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen1.JPG" alt="Flowers in Chania" width="1100" height="619">
+
+<img src="https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen2.JPG" alt="Flowers in Chania" width="1100" height="619">
 
 ## Key Insights:
 #### Country-level 
