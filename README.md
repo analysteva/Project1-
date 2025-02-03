@@ -11,6 +11,8 @@ The project is based on open data published by the Central Statistical Office of
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset<BR>
 
 <img src="https://github.com/analysteva/portfolio/blob/a36c881d5b15ba766d0a102d176ec5eefd1a2788/assets/img/KN_screen1.JPG" alt="Flowers in Chania" width="1100" height="619">
+    *<a href="https://analysteva.github.io/Project1-/"> Nursuries for Children in Poland Project </a>*
+    <img src="assets/img/KN_screen1.JPG" alt="Example Image">
 
 <img src="https://github.com/analysteva/portfolio/blob/a36c881d5b15ba766d0a102d176ec5eefd1a2788/assets/img/KN_screen1.JPG" alt="Flowers in Chania" width="1100" height="619">
 
