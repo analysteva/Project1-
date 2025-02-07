@@ -1,6 +1,11 @@
 title: Nursuries for Children - Market Research for Poland in 2025
 --logo: /assets/img/headshot_circle.png
---logo: /assets/img/kwiat.jpg
 --#description: Nursuries for Children - Market Research for Poland in 2025
---show_downloads: true
 theme: jekyll-theme-minimal
+minimal:
+  show_repo_link: false
+  show_downloads: false
+plugins:
+  - jekyll-feed
+include: ["assets/css"]
+classes: wide
