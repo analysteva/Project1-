@@ -32,6 +32,7 @@ Below visuals have been made in Power BI desktop and describing results gathered
 - Weekend childcare options are extremely limited, with just 72 nurseries open on Saturdays and 30 on Sundays. 
 
 - A large majority (83%) of childcare facilities are traditional nurseries, while children's clubs make up only 17% of the sector.
+
 #### Voivodeship-level 
 - Mazowieckie, Śląskie, and Małopolskie have the highest nursery demand, yet their fees are among the highest—additional subsidies or expanded capacity could improve affordability and accessibility. 
 
