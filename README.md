@@ -8,17 +8,18 @@ The project is based on open data published by the Central Statistical Office of
 <B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/</a>
 
 ## Data Visualization:
-Below visuals have been made in Power BI desktop and describing results gathered from the dataset<BR>
-*<a href="https://github.com/analysteva/Project1-/blob/1232e72b5f8459a87f040b517d958e9433078cb6/assets/img/KN_screen1.JPG"> Full screen </a>*
-<img src="assets/img/KN_screen1.JPG" alt="Example Image" width="500" height="281">
+Below visuals have been made in Power BI desktop and describing results gathered from the dataset:<BR>
+*Country-level data insights:*
+<img src="assets/img/KN_1.JPG" alt="Example Image">
 
-*<a href="https://analysteva.github.io/Project1-/"> Full screen2 </a>*
-<img src="assets/img/KN_screen2.JPG">
+*Voivodeship-level data insights:*
+<img src="assets/img/KN_2.JPG" alt="Example Image">
 
+*Nurseries Explorer - find a place near your location:*
+<img src="assets/img/KN_3.JPG" alt="Example Image">
 
-<img src="https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen1.JPG" alt="Flowers in Chania" width="600" height="400">
-
-<img src="https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen2.JPG" alt="Flowers in Chania" width="1100" height="619">
+*Price Explorer:*
+<img src="assets/img/KN_4.JPG" alt="Example Image">
 
 ## Key Insights:
 #### Country-level 
@@ -38,10 +39,10 @@ Below visuals have been made in Power BI desktop and describing results gathered
 
 - Lubuskie and Podkarpackie have the lowest nursery fees, but also fewer available spots, suggesting that increasing the number of nurseries in these areas could improve accessibility. 
 
-- Meal costs significantly impact overall childcare expenses, especially when exceeding 18.26 zł per day—introducing meal subsidies or cost regulations could make nurseries more affordable. 
+- Meal costs significantly impact overall childcare expenses, especially when exceeding 18.26 zł per day-introducing meal subsidies or cost regulations could make nurseries more affordable. 
 
-- Despite high subsidy rates in many voivodeships, nursery fees remain high in places like Małopolskie—evaluating the effectiveness of subsidies and adjusting funding distribution could better support families. 
-## Download the project in .pdf
+- Despite high subsidy rates in many voivodeships, nursery fees remain high in places like Małopolskie-evaluating the effectiveness of subsidies and adjusting funding distribution could better support families. 
+  <!--## Download the project in .pdf-->
 
 
 
