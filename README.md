@@ -13,7 +13,7 @@ Below visuals have been made in Power BI desktop and describing results gathered
 <img src="assets/img/KN_screen1.JPG" alt="Example Image" width="500" height="281">
 
 *<a href="https://analysteva.github.io/Project1-/"> Full screen2 </a>*
-<img src="assets/img/KN_screen2.JPG" alt="Example Image" width="500" height="281">
+<img src="assets/img/KN_screen2.JPG">
 
 
 <img src="https://github.com/analysteva/Project1-/blob/06bae85b608049d0ab4a667f6fbcbd582a74f148/assets/img/KN_screen1.JPG" alt="Flowers in Chania" width="600" height="400">
