@@ -5,6 +5,7 @@ theme: jekyll-theme-minimal
 minimal:
   show_repo_link: false
   show_downloads: false
+  search: false
 plugins:
   - jekyll-feed
 include: ["assets/css"]
