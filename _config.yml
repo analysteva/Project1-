@@ -6,6 +6,7 @@ minimal:
   show_repo_link: false
   show_downloads: false
   search: false
+  skin: auto
 plugins:
   - jekyll-feed
 include: ["assets/css"]
