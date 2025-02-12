@@ -4,21 +4,27 @@ The objective of this project is to analyze and visualize data on the number of 
 Additionally, interactive reports have been developed to enable efficient filtering and searching of nurseries across the country based on selected criteria, such as location and price range, providing users with a clear and data-driven overview of childcare accessibility. 
 
 ## Dataset Involved:
-The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country. <br>
+The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country.
+
 <B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/</a>
 
 ## Data Visualization:
-Below visuals have been made in Power BI desktop and describing results gathered from the dataset:<BR>
+Below visuals have been made in Power BI desktop and describing results gathered from the dataset:
+
 *Country-level data insights:*
+
 <img src="assets/img/KN_1.JPG" alt="Example Image">
 
 *Voivodeship-level data insights:*
+
 <img src="assets/img/KN_2.JPG" alt="Example Image">
 
 *Nurseries Explorer - find a place near your location:*
+
 <img src="assets/img/KN_3.JPG" alt="Example Image">
 
 *Price Explorer:*
+
 <img src="assets/img/KN_4.JPG" alt="Example Image">
 
 ## Key Insights:
