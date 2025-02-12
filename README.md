@@ -8,6 +8,8 @@ The project is based on open data published by the Central Statistical Office of
 
 <B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64551/table">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64551/table</a>
 
+<B>*Download file from Github:*</B> <a href="https://github.com/analysteva/Project1-/blob/61adb5320e7d083e70abda01e7cc191ac5b9aaa4/RZ-instytucje.csv"> RZ-instytucje.csv </a>
+
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset:
 
