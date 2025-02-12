@@ -6,7 +6,7 @@ Additionally, interactive reports have been developed to enable efficient filter
 ## Dataset Involved:
 The project is based on open data published by the Central Statistical Office of Poland. The dataset includes information on institutions listed in the Register of Nurseries and Children's Clubs as of February 2025, providing a comprehensive and up-to-date overview of childcare facilities across the country.
 
-<B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64230/</a>
+<B>*Data source:*</B> <a href="https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64551/table">https://dane.gov.pl/pl/dataset/4465,rejestr-zobkow-lista-instytucji/resource/64551/table</a>
 
 ## Data Visualization:
 Below visuals have been made in Power BI desktop and describing results gathered from the dataset:
